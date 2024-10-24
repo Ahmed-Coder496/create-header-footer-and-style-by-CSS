@@ -1,0 +1,32 @@
+.img1{
+    width: 100px;
+  }
+.HeadServices{
+    font-weight: bold;
+    padding-left: 50px;
+    font-size: 21px;
+    margin-bottom: 10px;
+    height: 10px;
+  }
+  .headServices{
+    font-weight: bold;
+    padding-left: 30px;
+    font-size: 21px;
+    margin-bottom: 10px;
+    height: 10px;
+  }
+  .dDiv{
+    height: 23px;
+    margin-top: -60px;
+  }
+  .pDiv{
+    float: left;
+  }
+
+  .login{
+    font-weight: bold;
+    padding-left: 540px;
+    font-size: 21px;
+    margin-bottom: 10px;
+    height: 10px;
+  }

@@ -1,0 +1,15 @@
+.para{
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: larger;
+  }
+  .Para{
+    padding-right: 40px;
+    padding-left: 75px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: larger;
+    float: left;
+  }
